@@ -26,6 +26,7 @@
 	"files": [
 		"src"
 	],
+	"main": "src/index.ks",
 	"dependencies": {
 	},
 	"devDependencies": {
