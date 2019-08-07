@@ -1,7 +1,7 @@
 {
 	"name": "@kaoscript/test-import",
 	"description": "mockup package to test import",
-	"version": "0.2.1",
+	"version": "0.2.0",
 	"author": {
 		"name": "Baptiste Augrain",
 		"email": "daiyam@zokugun.org"
@@ -28,8 +28,8 @@
 	],
 	"main": "src/index.ks",
 	"dependencies": {
-		"@kaoscript/ast": "^0.6.0",
-		"@kaoscript/util": "^0.1.0"
+		"@kaoscript/ast": ">=0.8 <1",
+		"@kaoscript/util": ">=0.1 <1"
 	},
 	"peerDependencies": {
 		"kaoscript": ">=0.7 <1"
