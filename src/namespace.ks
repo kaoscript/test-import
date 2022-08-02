@@ -10,16 +10,16 @@
 export namespace ns {
 	func foo() {
 	}
-	
-	const bar = 42
-	
+
+	var bar = 42
+
 	class Corge {
 	}
-	
+
 	class Qux extends Corge {
 	}
-	
+
 	export foo, bar, Qux
 }
 
-export const foo = ns.bar
+export var foo = ns.bar

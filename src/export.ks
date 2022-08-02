@@ -8,7 +8,7 @@
  * http://www.opensource.org/licenses/mit-license.php
  **/
 export {
-	const x = 1
-	const y = 2
-	const z = 3
+	var x = 1
+	var y = 2
+	var z = 3
 }
