@@ -24,7 +24,8 @@
 		"node": ">= 4.0.0"
 	},
 	"files": [
-		"src/*.ks"
+		"src/*.ks",
+		"src/*.js"
 	],
 	"main": "src/index.ks",
 	"dependencies": {
