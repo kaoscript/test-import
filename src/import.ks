@@ -7,4 +7,4 @@
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
  **/
-import './export'
+import './export.ks'
