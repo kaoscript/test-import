@@ -1,5 +1,5 @@
 /**
- * export.ks
+ * export.var.ks
  * Version 0.1.0
  * September 18th, 2017
  *
